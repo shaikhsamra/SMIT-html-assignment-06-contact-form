@@ -4,7 +4,7 @@
   margin: 0px;
   padding: 0px;
 }
- #Fname{
+ .Fname{
    display:flex;
    gap: 5px;
  }
