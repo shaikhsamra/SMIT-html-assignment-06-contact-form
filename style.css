@@ -4,7 +4,10 @@
   margin: 0px;
   padding: 0px;
 }
-
+ #Fname{
+   display:flex;
+   gap: 5px;
+ }
 .container {
   max-width: 700px;
   margin: auto;
